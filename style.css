@@ -4,3 +4,12 @@ body{
 #readingbooks{
     background-color: orangered;
 }
+br{
+    background-color: black;
+}
+.line{
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+    height: 6px;
+}
