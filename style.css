@@ -50,3 +50,13 @@ img{
 #Bookreview{
     background-color: aqua;
 }
+#Inspiration{
+    background-color: bisque;
+}
+#Picture{
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+}
+#Picture:hover{
+    transform: scale(0.9);
+}
