@@ -33,7 +33,7 @@ img{
     z-index: 10;
     cursor: pointer;
 }
-.links{
+.link{
     float: left;
     color: yellow;
     padding-top: 5px;
@@ -44,9 +44,6 @@ img{
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
 }
-.links:hover{
+.link:hover{
     background-color: #2067c5;
-}
-#BookReview{
-    background-color: aqua;
 }
