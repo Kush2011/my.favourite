@@ -60,3 +60,6 @@ img{
 #Picture:hover{
     transform: scale(0.9);
 }
+iframe:#Contact{
+    width: 100%
+}
